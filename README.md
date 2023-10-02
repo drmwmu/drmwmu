@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello!
+I am a CS student at WMU learning as much as I can about programming!
 <!--
 **drmwmu/drmwmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
